@@ -1,0 +1,42 @@
+.header-brand-logo {
+  font-weight: 700;
+  font-size: 40;
+  color: #222;
+}
+
+.cart {
+  float: left;
+  position: relative;
+  margin-left: 20px;
+  height: 35px;
+  display: flex;
+  align-items: center;
+}
+
+.cart_icon {
+  font-size: 22px;
+  line-height: 30px;
+  color: #222;
+  display: inline;
+}
+
+.cart_count {
+  position: absolute;
+  height: 19px;
+  width: 19px;
+  text-align: center;
+  background-color: rgb(241, 69, 112);
+  color: #fff;
+  font-size: 10px;
+  line-height: 19px;
+  font-weight: 500;
+  border-radius: 50%;
+  top: 2px;
+  left: 19px;
+}
+
+.menu-items {
+  font-weight: 500;
+  font-size: 18px;
+  color: #222 !important;
+}

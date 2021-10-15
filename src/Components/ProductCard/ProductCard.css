@@ -1,0 +1,14 @@
+.productName {
+  margin: 0;
+  padding: 0;
+  font-size: 16px;
+  font-weight: 500;
+  color: #222;
+  margin: 10px;
+  text-transform: capitalize;
+  cursor: pointer;
+}
+
+.productCard {
+  cursor: pointer;
+}

@@ -1,0 +1,71 @@
+.bannerSlider {
+  position: relative;
+  display: flex;
+}
+
+.banner-text {
+  text-align: left;
+}
+
+.banner-text h2 {
+  font-size: 56px;
+  font-weight: 500;
+  color: #222;
+  margin-bottom: 35px;
+  line-height: 56px;
+  text-transform: capitalize;
+}
+
+.banner-text p {
+  font-size: 20px;
+  font-weight: 400;
+  color: #222;
+  text-transform: uppercase;
+  margin-bottom: 70px;
+}
+
+.banner-text button {
+  font-size: 20px;
+  font-weight: 400;
+  color: #222;
+  text-transform: uppercase;
+  padding: 12px 25px;
+  border: 4px solid #222;
+  background-color: #fff;
+}
+
+.banner-button-icon {
+  font-size: 28px;
+  margin-top: -4px;
+}
+
+.slider-wrapper {
+  display: flex;
+}
+
+.single-slider {
+  display: flex;
+}
+
+.banner-image img {
+  transition: 0.2s all ease-in-out;
+}
+
+.fade {
+  animation: fadeInOut 4s ease-in-out infinite;
+}
+
+@keyframes fadeInOut {
+  0% {
+    opacity: 0;
+  }
+  15% {
+    opacity: 1;
+  }
+  85% {
+    opacity: 1;
+  }
+  100% {
+    opacity: 0;
+  }
+}
