@@ -1,0 +1,23 @@
+.cartSingleItem {
+  background-color: #f0f0f0;
+  margin: 20px 10px;
+  border-radius: 4px;
+  overflow: hidden;
+}
+.cartItemsHeader p {
+  margin: 0;
+  padding: 15px 0;
+  font-size: 16px;
+  font-weight: 500;
+  color: #222;
+}
+.selectedAttribute {
+  font-size: 16px;
+  font-weight: 500;
+  color: #444;
+  margin-bottom: 5px !important;
+}
+.color {
+  padding: 0px 3px;
+  border-radius: 4px;
+}

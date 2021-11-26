@@ -1,0 +1,41 @@
+.singleProductDescription {
+  text-align: left;
+}
+
+.productQuantity p {
+  border: 2px solid #f0f0f0;
+  display: inline-block;
+  margin: 0;
+  margin-right: 20px;
+}
+
+.productQuantity p span button {
+  background-color: transparent;
+  border: none;
+  font-size: 20px;
+  font-weight: 700;
+  color: #333;
+  padding: 0;
+  padding: 5px 16px;
+}
+
+.productQuantity p .quantity {
+  font-size: 20px;
+  font-weight: 700;
+  display: inline-block;
+  padding: 5px 30px;
+  border-left: 2px solid #f0f0f0;
+  border-right: 2px solid #f0f0f0;
+  cursor: default;
+}
+
+.addToCartButton {
+  margin: 0;
+  font-size: 14px;
+  font-weight: 500;
+  color: #fff;
+  text-transform: uppercase;
+  padding: 11px 42px;
+  background-color: #222;
+  border: 2px solid #222;
+}

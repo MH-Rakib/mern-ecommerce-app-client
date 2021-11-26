@@ -1,0 +1,34 @@
+.newsletter {
+  background-color: #fff3f3;
+  padding: 100px 0;
+}
+
+.newsletter p {
+  font-size: 20px;
+  font-weight: 400;
+}
+
+.newsletter-inputfield {
+  padding: 15px !important;
+  border: 2px solid #ccc;
+  background-color: #fff;
+  border-radius: 2px;
+  overflow: hidden;
+  font-size: 18px;
+  color: #777;
+  font-weight: 500;
+}
+
+.newsletter-button {
+  padding-left: 20px;
+  padding-right: 20px;
+  border: none;
+  background-color: #ccc;
+  border-radius: 2px;
+}
+
+.newsletter-button-icon {
+  font-size: 20px;
+  margin-top: -2px;
+  color: rgb(34, 34, 34);
+}

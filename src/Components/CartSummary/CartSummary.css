@@ -1,0 +1,31 @@
+.cartSummary {
+  background-color: #f0f0f0;
+  padding: 10px 25px;
+  border-radius: 4px;
+  padding-bottom: 25px;
+}
+
+.cartSummaryInfo {
+  text-align: left;
+  font-size: 20px;
+  font-weight: 500;
+  color: #333;
+}
+
+.cartSummaryHeading {
+  font-size: 24px;
+  color: #222;
+}
+
+.checkoutButton {
+  border-radius: 2px;
+  border: none;
+  text-align: center;
+  background-color: #222;
+  color: #fff;
+  font-size: 22px;
+  font-weight: 500;
+  width: 100%;
+  padding: 6px;
+  margin-top: 15px;
+}

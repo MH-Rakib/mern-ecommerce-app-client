@@ -1,0 +1,16 @@
+.adjust-attributes span {
+  font-size: 15px;
+  font-weight: 500;
+  color: #333;
+  padding-right: 10px;
+}
+
+.adjust-attributes select {
+  font-size: 15px;
+  font-weight: 500;
+  color: #333;
+  border: 2px solid #999;
+  background-color: #f0f0f0;
+  padding: 4px 12px;
+  outline: none;
+}

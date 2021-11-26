@@ -7,8 +7,6 @@ import catagories from "./../../Assets/FakeData/Categories";
 import "./ProductCategories.css";
 
 const ProductCategories = () => {
-  console.log(catagories);
-
   return (
     <div className="productCategories section">
       <Container>

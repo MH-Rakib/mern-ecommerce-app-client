@@ -1,0 +1,12 @@
+.adminpage-sidebar-category {
+  margin-bottom: 40px;
+  cursor: pointer;
+  display: flex;
+  justify-content: space-between;
+}
+
+.adminpage-sidebar-category h2 {
+  font-size: 24px;
+  line-height: 24px;
+  margin: 0 !important;
+}
